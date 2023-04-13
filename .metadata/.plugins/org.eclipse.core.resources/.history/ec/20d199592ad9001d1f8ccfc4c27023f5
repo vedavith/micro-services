@@ -1,0 +1,8 @@
+auth0:
+  audience: https://abhibus.auth.service/
+spring:
+  security:
+    oauth2:
+        resourceserver:
+            jwt:
+                issuer-uri: https://dev-fqsm0ylpg5dbk8eq.us.auth0.com/

@@ -1,0 +1,5 @@
+/*$db['default']['hostname'] = 'dev-mysql-ar-db-cluster.cluster-cwkquurvokdc.ap-south-1.rds.amazonaws.com';
+$db['default']['username'] = 'ab_dev_dba';
+$db['default']['password'] = 'k5R7e3C$217sd';
+$db['default']['database'] = 'abrs_new';
+
